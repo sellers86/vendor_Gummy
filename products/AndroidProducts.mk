@@ -18,4 +18,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/gummy_tf101.mk \
     $(LOCAL_DIR)/gummy_tf201.mk \
     $(LOCAL_DIR)/gummy_galaxysmtd.mk \
+    $(LOCAL_DIR)/../../../device/lge/VM670/cm.mk \
     $(LOCAL_DIR)/gummy_crespo.mk 
